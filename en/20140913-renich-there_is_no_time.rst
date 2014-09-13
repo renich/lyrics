@@ -69,7 +69,7 @@ There is no time
     take him to the steel land.
     Let him go and meet him once and for all.
 
-    Battle,
+    Crystals,
     the seal has been broken,
     deliver the unspoken will of the moon.
 
