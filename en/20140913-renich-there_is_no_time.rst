@@ -22,12 +22,12 @@ There is no time
     # A
     Today,
     I've seen the future,
-    the path that precedes you,
+    the path that precedes you, 
     is one of pain.
 
     There is no time,
     still, there is this light,
-    within your shame
+    within your shame.
 
     You,
     Will part to the mountain,
@@ -45,13 +45,13 @@ There is no time
     upon yourself.
 
     Father?
-    I've come to be tested.
+    I came to be tested.
     I'm here to reject,
     what I have become.
 
     # A
     You're back?
-    I cannot believe it,
+    The legend has woken!
     You have overcome yourself,
     and survived.
 
@@ -63,7 +63,7 @@ There is no time
     Go now!
     The moment awaits you!
     You're one with the dream
-    surprisingly bright!
+    unpairingly bright!
 
     Moonwhale,
     take him to the steel land.
@@ -74,5 +74,5 @@ There is no time
     deliver the unspoken will of the moon.
 
     Brother,
-    I've finally found you.
-    and went to fulfill his righteous divine.
+    I finally found you.
+    And went to fulfill his righteous divine.  
