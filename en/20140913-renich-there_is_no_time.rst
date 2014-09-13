@@ -17,6 +17,8 @@ There is no time
 :Style:
     Rock and Electronica
 
+::
+
     # A
     Today,
     I've seen the future,
