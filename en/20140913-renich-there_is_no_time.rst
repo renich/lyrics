@@ -7,7 +7,7 @@ There is no time
     - Richard Raymond Couture <rrc@linuxcabal.org>
 
 :License:
-    CC-BY-SA 3.0 or >
+    CC-BY-SA 4.0 or >
 
 :Creation date:
     2014-09-13 00:35:41
@@ -22,42 +22,42 @@ There is no time
 
     # A
     Today,
-    I've seen the future,
-    the path that precedes you, 
+    I've seen your future,
+    the path that precedes you
     is one of pain.
 
     There is no time,
-    still, there is this light,
+    still, there is this light
     within your shame.
 
     You,
-    Will part to the mountain,
-    your nature deceives you...
-    Will you betray yourself?
+    will part to the mountain.
+    Your nature deceives you...
+    will you betray yourself?
 
-    Your soul will be tested,
-    and become relentless,
+    Your soul will be tested
+    and, become relentless
     or meet it's end.
 
     # B
-    Patience,
-    The Twins will assist you,
-    and help with the burden laid,
+    Have patience,
+    the Twins will assist you
+    and help with the burden laid
     upon yourself.
 
     Father?
     I came to be tested.
-    I'm here to reject,
+    I'm here to reject
     what I have become.
 
     # A
     You're back?
     The legend has waken!
-    You have overcome yourself,
+    You have overcome yourself
     and survived.
 
-    The conquest of darkness,
-    has gained you this blinding,
+    The conquest of darkness
+    has gained you this blinding
     light.
 
     # B
@@ -76,4 +76,4 @@ There is no time
 
     Brother,
     I finally found you.
-    ... and went to fulfill his righteous calling.
+    ... and went to fulfill his righteous divide.
