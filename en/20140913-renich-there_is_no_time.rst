@@ -2,8 +2,9 @@
 There is no time
 ================
 
-:Author:
-    Renich Bon Ciric <renich@evalinux.com>
+:Authors:
+    - Renich Bon Ciric <renich@woralelandia.com>
+    - Richard Raymond Couture <rrc@linuxcabal.org>
 
 :License:
     CC-BY-SA 3.0 or >
@@ -51,7 +52,7 @@ There is no time
 
     # A
     You're back?
-    The legend has woken!
+    The legend has waken!
     You have overcome yourself,
     and survived.
 
@@ -62,12 +63,12 @@ There is no time
     # B
     Go now!
     The moment awaits you!
-    You're one with the dream
-    unpairingly bright!
+    You're one with the dream;
+    unsullied and bright!
 
     Moonwhale,
-    take him to the steel land.
-    Let him go and meet him once and for all.
+    take him to the steel land,
+    and sally to battle once and for all.
 
     Crystals,
     the seal has been broken,
@@ -75,4 +76,4 @@ There is no time
 
     Brother,
     I finally found you.
-    And went to fulfill his righteous divine.  
+    ... and went to fulfill his righteous calling.
