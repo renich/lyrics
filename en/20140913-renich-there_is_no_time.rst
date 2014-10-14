@@ -22,7 +22,7 @@ There is no time
 
     # A
     Today,
-    I've seen your future,
+    I felt your future,
     the path that precedes you
     is one of pain.
 
