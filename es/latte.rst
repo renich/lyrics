@@ -9,7 +9,7 @@ Latte
 :Licensia:
     CC-BY-SA 4.0 or >
 
-:Fecha de creación:
+:Fecha:
     2014-02-03 00:00:00
 
 :Idioma:
