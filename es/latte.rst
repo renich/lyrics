@@ -18,33 +18,35 @@ Latte
 :Style:
     Rock & Electronica
 
-# A
-Cafe latte,
-me contagia,
-en un sorvo,
-de su rabia.
+::
 
-Caen en trozos,
-plumas rojas,
-que regala,
-en su descenso.
+    # A
+    Cafe latte,
+    me contagia,
+    en un sorvo,
+    de su rabia.
 
-# B
-Y vas,
-cambiando el curso,
-de la realidad.
+    Caen en trozos,
+    plumas rojas,
+    que regala,
+    en su descenso.
 
-Más,
-siguiendo el rito,
-que dejo caer,
-en ti...
+    # B
+    Y vas,
+    cambiando el curso,
+    de la realidad.
 
-# Solo
+    Más,
+    siguiendo el rito,
+    que dejo caer,
+    en ti...
 
-# A
-Del espresso,
-quiero un beso.
-Retrogusto,
-y acidez.
+    # Solo
 
-# Ending
+    # A
+    Del espresso,
+    quiero un beso.
+    Retrogusto,
+    y acidez.
+
+    # Ending
