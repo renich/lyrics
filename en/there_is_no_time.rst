@@ -9,14 +9,14 @@ There is no time
 :License:
     CC-BY-SA 4.0 or >
 
-:Creation date:
+:Date:
     2014-09-13 00:35:41
 
 :Language:
     English
 
 :Style:
-    Rock and Electronica
+    Rock & Electronica
 
 ::
 
@@ -77,3 +77,5 @@ There is no time
     Brother,
     I finally found you.
     ... and went to fulfill his righteous divide.
+
+    # Ending
