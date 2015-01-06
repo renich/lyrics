@@ -23,7 +23,7 @@ The last song
     Your life is done,
     the end has come.
 
-    The rain will draw you down,
+    The rain will draw you down, my love.
     I told you so, I told you so.
 
     # B
