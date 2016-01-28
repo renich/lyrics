@@ -19,7 +19,7 @@ Soul
 
 ::
 
-    # a
+    # A
     Singularly
     chart of uniqueness,
     being drawn under sheets
