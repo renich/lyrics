@@ -28,7 +28,7 @@ Soul
     # B
     Scattered to fractions,
     by fantasies,
-    what you've been dreaming...
+    it's what you wanted...
     infinity.
 
     # A
@@ -39,5 +39,5 @@ Soul
     # B
     Scattered to fractions,
     by fantasies,
-    what you've been dreaming...
+    what you've been wanting...
     never-ending.
