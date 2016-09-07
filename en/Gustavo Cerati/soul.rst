@@ -22,19 +22,19 @@ Soul
     # A
     Singularly
     chart of uniqueness,
-    being drawn under sheets
+    gets undrawn under sheets
     of faeries.
 
     # B
     Scattered to fractions,
     by fantasies,
     it's what you wanted...
-    infinity.
+    Smells like carmine.
 
     # A
     If I may, let's keep, together,
     attention,
-    for beginnings of millennia
+    for beginnings of millennia.
 
     # B
     Scattered to fractions,
