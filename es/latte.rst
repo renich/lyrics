@@ -3,7 +3,7 @@ Latte
 =====
 
 :Autor:
-    Daniel RodrÌguez <danielpintart@gmail.com>
+    Daniel Rodr√≠guez <danielpintart@gmail.com>
     Renich Bon Ciric <renich@woralelandia.com>
 
 :Licensia:
@@ -13,7 +13,7 @@ Latte
     2014-02-03 00:00:00
 
 :Idioma:
-    EspaÒol
+    Espa√±ol
 
 :Estilo:
     Rock & Electronica
@@ -36,7 +36,7 @@ Latte
     cambiando el curso,
     de la realidad.
 
-    M·s,
+    M√°s,
     siguiendo el rito,
     que dejo caer,
     en ti...
@@ -47,7 +47,7 @@ Latte
     Del espresso,
     quiero un beso.
     Retrogusto,
-    y acidez.
+    de peque√±as vidas.
 
     # B (2)
 
