@@ -19,8 +19,10 @@ El blues del Taquero
 
 :Progresiones:
 
-    A: | Am7 G | 7x | Am7 C |
-    B: | Dm7 C | 3x | Dm7 Dm(maj7) | D#m7#9 | Dm7#9 | Am7 | Em7#9 |
+    A:
+        | Am7 G | 7x | Am7 C |
+    B:
+        | Dm7 C | 3x | Dm7 Dm(maj7) | D#m7#9 | Dm7#9 | Am7 | Em7#9 |
 
 ::
 
