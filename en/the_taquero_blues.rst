@@ -22,9 +22,9 @@ Notes for Adam Neely
 
 :Progressions:
 
-    A: 
+    A:
         | Am7 G | 7x | Am7 C |
-    B: 
+    B:
         | Dm7 C | 3x | Dm7 Dm(maj7) | D#m7#9 | Dm7#9 | Am7 | Em7#9 |
 
 ::
@@ -34,7 +34,7 @@ Notes for Adam Neely
     'cause, since January, I eat poquito.
 
     # B
-    Since that, my woman, love no mo'
+    Since that, my woman, love me no mo'
     as she keeps hurtin' me; damn whore!
 
 This part has the bluessy feel of the song. It can't be a blues if I'm not suffering, right?
@@ -46,8 +46,8 @@ This part has the bluessy feel of the song. It can't be a blues if I'm not suffe
     Don't be an asswhole, today I'm due.
 
     # B
-    Flip my life arround,
-    like you flip that tortilla.
+    Flip my life around, today,
+    like you flip that tortilla away.
 
 Trying to get more imagery about the elements of tacos. They always have soft drinks here; usually Coca-cola. It's just part of the
 culture already. Also, calling him a "culero" is kind of harsh, but a very common thing to say here.
@@ -56,7 +56,7 @@ culture already. Also, calling him a "culero" is kind of harsh, but a very commo
 
     # Bass solo
 
-Yeah, well, the bass solo!
+Yeah, well, the bass solo! Tempo goes slower here.
 
 ::
 
@@ -90,8 +90,8 @@ had too much habanero chile; which is super spicy! :D
     And, those who feel it, give 'em head,
     me, tongue and breast for later.
 
-This is kind of hard to translate to english. First of all, taqueros are know for being very good at "albures":
-//en.wikipedia.org/wiki/Albur which, according to wikipedia's definition of "Double entendre" is pretty much the same thing:
+This is kind of hard to translate to English. First of all, taqueros are know for being very good at "albures":
+https://en.wikipedia.org/wiki/Albur which, according to wikipedia's definition of "Double entendre" is pretty much the same thing:
 https://en.wikipedia.org/wiki/Double_entendre.
 
 I've included both links because I think the latter is more accurate, yet, the former has the sexual thing included.
@@ -103,7 +103,7 @@ reprisal!
 
     # Guitar solo
 
-Well, the guitar solo is intended to sound bluessy but jazzy. It has to have some of the blues elements, since Mexicans relate much
+Well, the guitar solo is intended to sound bluessy, yet, jazzy. It has to have some of the blues elements, since Mexicans relate much
 better to blues than to jazz. Yet, I am interested in Jazz thanks to you, man, so I am trying my best here.
 
 ::
@@ -114,7 +114,7 @@ better to blues than to jazz. Yet, I am interested in Jazz thanks to you, man, s
 
     # B
     I just so miss him; I haven't seen him!
-    Don't play the ass, you have cooked my dog! (A common joke among people and taqueros. You claim the "dog" was well cooked to joke around)
+    Don't play the ass, you have cooked my dog!
 
     # Fight between the taquero and me
 
@@ -125,7 +125,7 @@ country or something like that. Just a playful thing to do with them.
 Also, dogs gather around taquerías here. They, usually, get fed either by the clients or the taquero. Sometimes they're kind of
 annoying... anyway, drifting a bit...
 
-The fight is supposed to be just funny.
+The fight is supposed to be just funny. You know, SFX and stuff.
 
 ::
 
