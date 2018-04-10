@@ -88,7 +88,7 @@ Yeah, well, the bass solo! Tempo goes slower here.
 
     # B
     And, those who feel it, give 'em head,
-    me, tongue and breast for later.
+    me, tongue and pressed breast for later.
 
 This is kind of hard to translate to English. First of all, taqueros are know for being very good at "albures":
 https://en.wikipedia.org/wiki/Albur which, according to wikipedia's definition of "Double entendre" is pretty much the same thing:

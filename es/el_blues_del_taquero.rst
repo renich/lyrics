@@ -59,7 +59,7 @@ El blues del Taquero
 
     # B
     y, al que se siente, dale chorizo,
-    yo, lengua y chicharrón pa'l ratito.
+    yo, lengua y chicharrón prensadito.
 
     # Solo de guitarra
 
