@@ -42,25 +42,6 @@ This part has the bluessy feel of the song. It can't be a blues if I'm not suffe
 ::
 
     # A
-    Hey, Taquero, gimme a coke.
-    Don't be an asswhole, today I'm due.
-
-    # B
-    Flip my life around, today,
-    like you flip that tortilla away.
-
-Trying to get more imagery about the elements of tacos. They always have soft drinks here; usually Coca-cola. It's just part of the
-culture already. Also, calling him a "culero" is kind of harsh, but a very common thing to say here.
-
-::
-
-    # Bass solo
-
-Yeah, well, the bass solo! Tempo goes slower here.
-
-::
-
-    # A
     Hey Taquero, two quesadillas,
     before, those vultures, claim my life.
 
@@ -79,6 +60,25 @@ I think this scene, where I beg for two quesadillas or I'll die of hunger is ver
 
 Also, the pun is intended where I have this tragi-comic gesture of saying I don't want to lament anymore but I can't, because I just
 had too much habanero chile; which is super spicy! :D
+
+::
+
+    # A
+    Hey, Taquero, gimme a coke.
+    Don't be an asswhole, today I'm due.
+
+    # B
+    Flip my life around, today,
+    like you flip that tortilla away.
+
+Trying to get more imagery about the elements of tacos. They always have soft drinks here; usually Coca-cola. It's just part of the
+culture already. Also, calling him a "culero" is kind of harsh, but a very common thing to say here.
+
+::
+
+    # Bass solo
+
+Yeah, well, the bass solo! Tempo goes slower here.
 
 ::
 

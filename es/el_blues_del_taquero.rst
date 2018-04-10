@@ -35,22 +35,23 @@ El blues del Taquero
     pues, esa puta, solo me hiere.
 
     # A
-    Oye Taquero, dame una coca.
-    No seas culero que, ahora, me toca.
-
-    # B
-    Dale la vuelta, hoy, a mi vida,
-    como le das a esa tortilla.
-
-    # Solo de bajo
-
-    # A
     Oye Taquero, dos quesadillas,
     Porque, esos buitres, quieren mi vida.
 
     # B
     No lamentarme es lo que quiero,
     pero les puse mucho habanero.
+
+
+    # Solo de bajo
+
+    # A
+    Oye Taquero, dame una coca.
+    No seas culero que, ahora, me toca.
+
+    # B
+    Dale la vuelta, hoy, a mi vida,
+    como le das a esa tortilla.
 
     # A
     Oye Taquero, ya no alburees,
