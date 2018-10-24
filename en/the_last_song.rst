@@ -39,14 +39,14 @@ The last song
 
     # B
     Lean on me, my friend.
-    Come and see yourself, inside.
+    Come and see selffie, inside.
 
     # C
     <solo>
 
     # B
     Lean on me, my friend.
-    Come and say good bye, tonight.
+    Come and say good bye...
 
     Lean on me again.
     Confort me because, you are no more.
