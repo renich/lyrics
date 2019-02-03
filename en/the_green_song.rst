@@ -20,7 +20,7 @@ The green song
 ::
 
     # A
-    Floating all along, 
+    Floating all along,
     singing my home's song,
     as a bird passes by...
 
@@ -29,7 +29,7 @@ The green song
     the adventure begins...
 
     # B
-    Faling down,
+    Falling down,
     down to earth I...
     will become,
     one with it and You.
