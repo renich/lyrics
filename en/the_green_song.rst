@@ -39,7 +39,7 @@ The green song
     binding never ends,
     as we slide down the stream...
 
-    Dance and join with them,
+    Dance and fun with them,
     waisting no attempt,
     to become what we will...
 
